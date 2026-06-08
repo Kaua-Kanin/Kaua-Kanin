@@ -1,16 +1,38 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.png" alt="Banner Kauã Kanin">
+</p>
 
-<!--
-**Kaua-Kanin/Kaua-Kanin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou Kauã Kanin 👋
 
-Here are some ideas to get you started:
+🎓 Estudante de Engenharia de Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estudando e desenvolvendo projetos com:
+
+* HTML
+* CSS
+* JavaScript
+* Python
+* C++
+
+## Projetos em destaque
+
+### AgroOrbit IA
+
+Projeto acadêmico voltado para soluções tecnológicas aplicadas ao agronegócio.
+
+### CRUD Web App
+
+Aplicação web para gerenciamento de dados utilizando operações CRUD.
+
+### Landing Pages
+
+Projetos focados em desenvolvimento front-end responsivo e experiência do usuário.
+
+## Objetivo
+
+Busco oportunidades de estágio em desenvolvimento de software para aplicar meus conhecimentos, evoluir tecnicamente e adquirir experiência prática na área.
+
+## Contato
+
+* LinkedIn: seu-linkedin
+* GitHub: github.com/Kaua-Kanin
